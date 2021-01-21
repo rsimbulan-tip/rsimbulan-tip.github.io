@@ -5,4 +5,4 @@ date:   2021-01-16 15:46:58 +0800
 categories: jekyll update
 ---
 Greetings, human!
-                I am Samuel Lacanilao of CPE31S5
+                I am Ryan Simbulan from CPE31S5
