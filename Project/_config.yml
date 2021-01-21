@@ -22,9 +22,9 @@ title: Portfolio for CPE232
 email: qrcsimbulan@tip.edu.ph
 description: >- # this means to ignore newlines until "baseurl:"
  Welcome to my Portfolio
-baseurl: "/qrcsimbulan-tip.github.io" # the subpath of your site, e.g. /blog
-url: "https://github.com/qrcsimbulan-tip/qrcsimbulan-tip.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  qrcsimbulan-tip
+baseurl: "/rsimbulan-tip.github.io" # the subpath of your site, e.g. /blog
+url: "https://github.com/rsimbulan-tip/rsimbulan-tip.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  rsimbulan-tip
 
 #excerpt firt sentence
 excerpt_separator: .
